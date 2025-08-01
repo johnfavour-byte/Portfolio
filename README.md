@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John Favour 👋</h1>
+<h1 align="center">Hi, I'm John Favour konkini👋</h1>
 
 ---
 
