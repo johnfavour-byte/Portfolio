@@ -1,20 +1,14 @@
 <h1 align="center">Hi, I'm John Favour konkini👋</h1>
 
----
-
 ## 🖥️ Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,ts,php" alt="Languages" />
 </p>
 
----
-
 ## 👨‍💻 About
 
 Passionate and results-driven software developer focused on building scalable and efficient solutions. I am curious and eager to learn about solving complex problems and to learn new technologies. I am just starting my tech  journey with curiosity which i am hopeful to grow into a lifelong vocation.
-
----
 
 ## 🎓 Educational Background
 
@@ -29,9 +23,6 @@ Passionate and results-driven software developer focused on building scalable an
 - Open Source Contribution
 - Writing Tech Articles
 - Mentoring and Community Building
-
----
-
 ## 🚀 Projects
 
 | Project Name         
@@ -45,9 +36,6 @@ Passionate and results-driven software developer focused on building scalable an
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
 <p align="center">
   <i>“Thank you for stopping by!”</i>
 </p>
