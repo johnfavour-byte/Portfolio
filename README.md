@@ -49,5 +49,5 @@ Passionate and results-driven software developer focused on building scalable an
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+  <i>“Thank you for stopping by!”</i>
 </p>
