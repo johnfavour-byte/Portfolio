@@ -6,7 +6,9 @@
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,ts,php" alt="Languages" />
 </p>
  👨‍💻 About
+ 
 Passionate and results-driven software developer focused on building scalable and efficient solutions. I am curious and eager to learn about solving complex problems and to learn new technologies. I am just starting my tech  journey with curiosity which i am hopeful to grow into a lifelong vocation.
+
 ## 🎓 Educational Background
 
 **B.Sc. mass communication**  
@@ -22,11 +24,21 @@ Passionate and results-driven software developer focused on building scalable an
 - Mentoring and Community Building
 ## 🚀 Projects
 
-         
+<section id="projects">
+  <h2>Projects</h2>
+  <ul>
+    <li>
+      My first HTML5 webpage —
+      <a href="https://github.com/johnfavour-byte/index.html" target="_blank" rel="noopener noreferrer">   View on GitHub
+      </a>
+    </li>
+  </ul>
+</section>
+        
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:favourjohn20202@gmail.com">
+  <a href="mailto:favourjohn1020@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  <footer id="contact" role="contentinfo">
