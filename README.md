@@ -33,7 +33,6 @@ Passionate and results-driven software developer focused on building scalable an
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="[https://linkedin.com/in/johnfavour-byte](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMtmk7HK7SIa%2FW07FppiCow%3D%3D)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <p align="center">
