@@ -31,7 +31,7 @@ Passionate and results-driven software developer focused on building scalable an
       My first HTML5 webpage —
       <a href="https://github.com/johnfavour-byte/index.html target="_blank" rel="noopener noreferrer">   View on GitHub
       </a
-      <a href="https://github.com/johnfavour-byte/index.html target="_blank" rel="noopener noreferrer">   View on GitHub
+      <a href="https://github.com/johnfavour-byte/Joelpalace.git target="_blank" rel="noopener noreferrer">   View on GitHub
       </a
       
     </li>
